@@ -11,8 +11,8 @@ This is a simple Bash script that checks how the computer is doing.
 * Saves all this information into a log file.
 
 # How to run it:
-1. Give permission: `chmod +x system_health.sh`
-2. Run with sudo: `sudo ./system_health.sh`
+1. Give permission: `chmod +x linuxcheck.sh`
+2. Run with sudo: `sudo ./linuxcheck.sh`
 
 # Where are the logs?
 The reports are saved here: `/var/log/system_health.log`
